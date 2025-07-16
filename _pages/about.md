@@ -56,7 +56,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 # 🎖️ Honors and Awards
 - *2025.05* Huawei Scholarship
-- *2024.07* Participated in the 1st National Training for College Cybersecurity Teachers (1/2 representatives from Tianjin University) 
+- *2024.07* Participated in the 1st National Training for College Cybersecurity Teachers (1 of 2 representatives from Tianjin University) 
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 - *2021.01* Outstanding Graduates of Tianjin University
 - *2020.08* OnMicro Scholarship
