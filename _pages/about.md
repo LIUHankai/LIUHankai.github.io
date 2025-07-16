@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Invited Talks
 - *2024.10*, PmTrack: Enabling Personalized mmWave-based Human Tracking, UbiComp 2024
-- *2024.08*, mmWave radar-based multi-person tracking and identification, HHME 2024
+- *2024.08*, mmWave Radar-based Multi-person Tracking and Identification, HHME 2024
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
