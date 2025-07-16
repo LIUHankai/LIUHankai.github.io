@@ -41,7 +41,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+→ [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
 # ✒️ Services
 - *2025.11*, TPC Member, TrustCom 2024
