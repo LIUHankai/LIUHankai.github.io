@@ -46,11 +46,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.10*, PmTrack: Enabling Personalized mmWave-based Human Tracking, UbiComp 2024
 - *2024.08*, mmWave Radar-based Multi-person Tracking and Identification, HHME 2024
 
-# 📖 Educations
-- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
-- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
-- *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
+# 💬 Services
+- *2025.11*, TPC Member, TrustCom 2024
+- *2023.10*, Poster Chair, ICA3PP 2024
 
 # 🎖 Honors and Awards
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 
+# 📖 Educations
+- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
+- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
+- *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
