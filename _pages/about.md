@@ -19,8 +19,9 @@ redirect_from:
 
 I am currently a lecturer at the [College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), Nankai University (南开大学密码与网络空间安全学院), China. Prior to this, I earned both my B.E., M.S., and Ph.D. degrees from Tianjin University, China. During my doctoral studies, I was supervised by [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/zh/index.html) (刘秀龙) and [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋), with my research primarily focused on mmWave radar sensing and sensing security. For my master's degree, I was supervised by [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛) and Prof. Kaihua Liu (刘开华), concentrating on RF mobile localization.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include **Wireless Sensing** and **RF Security**. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc. 
 
+`I am hiring research assistants to work on multiple research projects related to mmWave Sensing and Side-channel Attack. Drop me an email if you are interested. Candidates with a background in AI, Communications, or Electronics are preferred.`
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
