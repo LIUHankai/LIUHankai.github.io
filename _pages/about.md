@@ -32,9 +32,9 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MHTrack: mmWave-based Mobile Hand Tracking](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
 
-Xiulong Liu (supervisor), **Hankai Liu{*}**, Yantao Han, Xin Xie, Xinyu Tong, Keqiu Li
+Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han, Xin Xie, Xinyu Tong, Keqiu Li
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -44,6 +44,10 @@ Xiulong Liu (supervisor), **Hankai Liu{*}**, Yantao Han, Xin Xie, Xinyu Tong, Ke
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
+
+**Hankai Liu**, Xiulong Liu, Xin Xie, Xinyu Tong, Keqiu Li
+
 </div>
 </div>
 
@@ -51,11 +55,19 @@ Xiulong Liu (supervisor), **Hankai Liu{*}**, Yantao Han, Xin Xie, Xinyu Tong, Ke
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
+
+Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang, Xin Xie, Keqiu Li
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCOM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+[Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
+
+**Hankai Liu**, Xiulong Liu, Xin Xie, Xinyu Tong, Tuo Shi, Keqiu Li
 
 </div>
 </div>
@@ -64,10 +76,18 @@ Xiulong Liu (supervisor), **Hankai Liu{*}**, Yantao Han, Xin Xie, Xinyu Tong, Ke
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+[Toward Simultaneous Localization and Speed Measurement of Mobile Vehicles via RF-ELP](https://ieeexplore.ieee.org/document/9709594)
+
+**Hankai Liu**, Yongtao Ma, Xiulong Liu, Yunlei Zhang, Chenglong Tian, Shuai Li, Wenyu Qu
+
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAP 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[The Influence of the Nonideal Phase Offset on SAR-Based Localization in Passive UHF RFID](https://ieeexplore.ieee.org/document/9052482)
+
+Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang, Yue Jiang
 
 </div>
 </div>
