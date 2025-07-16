@@ -52,5 +52,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
 
 - # 🎖 Honors and Awards
-- *2023.12* Best Paper Award, IEEE Cybermatics Congress 2023
+- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 
