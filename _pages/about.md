@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Professor at the College of Intelligence and Computing (opens new window), Tianjin University, a position I have held since 2025. Prior to this, I served as an Associate Professor at Tianjin University from 2023 to 2024. Before joining academia, I was a Researcher at Huawei 2012 Laboratories' Hong Kong Theory Lab (2022-2023) and a Postdoctoral Fellow at the PEIlab (opens new window)of The Hong Kong Polytechnic University (2019-2022). I earned both my Ph.D. (2019) and B.Eng. (2013) degrees in Computer Science from Dalian University of Technology.
+I am currently a lecturer at the College of Cryptology and Cyber Science, Nankai University, China. Prior to this, I earned both my B.E., M.S., and Ph.D. degrees from Tianjin University, China. During my doctoral studies, I was supervised by Prof. Xiulong Liu (刘秀龙) and Prof. Keqiu Li (李克秋), with my research primarily focused on mmWave radar sensing and sensing security. For my master's degree, I was supervised by Prof. Yongtao Ma (马永涛) and Prof. Kaihua Liu (刘开华), concentrating on RF mobile localization.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
