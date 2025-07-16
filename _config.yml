@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hankai Liu (刘涵凯)"
   avatar           : "images/512x512.png"
-  bio              : "Lecturer, CS & EE        南开大学讲师"
+  bio              : "Lecturer, CS & EE"
+  bi2              : "南开大学讲师"
   location         : "Tianjin, China"
   employer         : "Nankai University"
   pubmed           : 
