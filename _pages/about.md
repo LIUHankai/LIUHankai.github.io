@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🏛️ Services
+# 💼 Services
 - *2025.11*, TPC Member, TrustCom 2024
 - *2023.10*, Poster Chair, ICA3PP 2024
 
@@ -51,9 +51,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.08*, mmWave Radar-based Multi-person Tracking and Identification, HHME 2024
 
 # 👨‍🏫 Teaching
-- *2024.Fall*, Computer Hardware Fundamentals
+- *2025.Fall*, Computer Hardware Fundamentals
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 
 # 📖 Educations
