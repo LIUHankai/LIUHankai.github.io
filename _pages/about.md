@@ -1,4 +1,4 @@
----
+<img width="1520" height="210" alt="image" src="https://github.com/user-attachments/assets/ecb50deb-a6a2-49f1-a194-5c2a2f3af5ca" /><img width="1520" height="210" alt="image" src="https://github.com/user-attachments/assets/e1b91790-9269-4115-86b9-a0e09e793f19" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -42,18 +42,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Invited Talks
+- *2024.10*, PmTrack: Enabling Personalized mmWave-based Human Tracking, UbiComp 2024
+- *2024.08*, mmWave radar-based multi-person tracking and identification, HHME 2024
 
 # 📖 Educations
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
 - *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
 - *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- # 🎖 Honors and Awards
+- *2023.12* Best Paper Award, IEEE Cybermatics Congress 2023
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
