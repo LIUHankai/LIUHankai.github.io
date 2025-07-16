@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💼 Services
+# ✒️ Services
 - *2025.11*, TPC Member, TrustCom 2024
 - *2023.10*, Poster Chair, ICA3PP 2024
 
