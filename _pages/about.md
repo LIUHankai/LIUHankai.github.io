@@ -41,7 +41,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han, Xin Xie, Xinyu Tong, Keq
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
