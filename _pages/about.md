@@ -21,11 +21,11 @@ I am currently a lecturer at the [College of Cryptology and Cyber Science](https
 
 My research interests include **Wireless Sensing** and **RF Security**. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc. 
 
-`I am hiring research assistants to work on multiple research projects related to mmWave Sensing and Side-channel Attack. Drop me an email if you are interested. Candidates with a background in AI, Communications, or Electronics are preferred.`
+`I am seeking research assistants to work on multiple research projects related to mmWave Sensing and Side-channel Attack. Drop me an email if you are interested. Candidates with a background in AI, Communications, or Electronics are preferred.`
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE Transactions on Mobile Computing.
+- *2025.04*: Our paper entitled "Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing" was accepted by IEEE Transactions on Mobile Computing. 
 
 # 📝 Selected Publications 
 
