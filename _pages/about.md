@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,13 +42,16 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🏛️ Services
+- *2025.11*, TPC Member, TrustCom 2024
+- *2023.10*, Poster Chair, ICA3PP 2024
+
 # 💬 Invited Talks
 - *2024.10*, PmTrack: Enabling Personalized mmWave-based Human Tracking, UbiComp 2024
 - *2024.08*, mmWave Radar-based Multi-person Tracking and Identification, HHME 2024
 
-# 💬 Services
-- *2025.11*, TPC Member, TrustCom 2024
-- *2023.10*, Poster Chair, ICA3PP 2024
+# 👨‍🏫 Teaching
+- *2024.Fall*, Computer Hardware Fundamentals
 
 # 🎖 Honors and Awards
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
