@@ -55,6 +55,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 - *2025.Fall*, Computer Hardware Fundamentals
 
 # 🎖️ Honors and Awards
+- *2023.12* Participated in the 1st National Training for College Cybersecurity Teachers (2 representatives from Tianjin University) 
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 
 # 📖 Educations
