@@ -94,7 +94,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang, Yue Jiang
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# ✒️ Services{: #-services}
+# ✒️ Services
 # <span id="-services">✒️ Services</span>
 - *2025.11*, TPC Member, TrustCom 2025
 - *2023.10*, Workshop Chair, ICA3PP 2024
