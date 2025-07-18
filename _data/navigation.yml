@@ -10,7 +10,7 @@ main:
     url: "/#-selected-publications"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#%EF%B8%8F-services"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
