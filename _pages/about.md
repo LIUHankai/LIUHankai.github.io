@@ -27,7 +27,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 - *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE TMC.
 - *2025.04*: Our paper entitled "Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing" was accepted by IEEE TMC.
 
-# 📝 Selected Publications 
+# 📚 Selected Publications 
 ## 🏃‍♀️ mmWave Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,7 +94,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang, Yue Jiang
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 📚 Services
+# 📝 Services
 - *2025.11*, TPC Member, TrustCom 2025
 - *2023.10*, Workshop Chair, ICA3PP 2024
 
