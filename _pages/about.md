@@ -63,7 +63,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCOM 2023</div><img src='images/mmfilter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Commun. Mag. 2023</div><img src='images/mmfilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
