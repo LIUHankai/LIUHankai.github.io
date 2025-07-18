@@ -105,7 +105,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang, Yue Jiang
 # 👨‍🏫 Teaching
 - *2025.Fall*, Computer Hardware Fundamentals
 
-# 🎖️ Honors and Awards
+# 🥇 Honors and Awards
 - *2025.05* Huawei Scholarship
 - *2024.07* Participated in the 1st National Training for College Cybersecurity Teachers (1 of 2 representatives from Tianjin University) 
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
