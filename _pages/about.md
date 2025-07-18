@@ -30,7 +30,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 # 📘 Selected Publications 
 ## 🏃‍♀️ mmWave Sensing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack992x558.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack16x9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
@@ -40,7 +40,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mhtrack16x9.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
