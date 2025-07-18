@@ -34,7 +34,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
 
-**Hankai Liu**, Xiulong Liu, Xin Xie, *et al.*
+**Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
 
 </div>
 </div>
@@ -44,7 +44,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 [MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
 
-Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han, *et al.*
+Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -57,7 +57,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han, *et al.*
 
 [Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
 
-Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang, *et al.*
+Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 </div>
 </div>
@@ -67,7 +67,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang, *et al.*
   
 [Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
 
-**Hankai Liu**, Xiulong Liu, Xin Xie, *et al.*
+**Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang, *et al.*
 
 [The Influence of the Nonideal Phase Offset on SAR-Based Localization in Passive UHF RFID](https://ieeexplore.ieee.org/document/9052482)
 
-Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang, *et al.*
+Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 </div>
 </div>
