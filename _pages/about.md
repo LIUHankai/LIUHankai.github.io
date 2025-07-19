@@ -49,7 +49,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
-- <span style="margin-left:-4px">First mmWave-based hand tracking and gesture recognition scheme for mobile users.</span>
+- First mmWave-based hand tracking and gesture recognition scheme for mobile users.</span>
 
 </div>
 </div>
