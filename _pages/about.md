@@ -30,7 +30,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 # 📘 Selected Publications 
 ## 🏃‍♀️ mmWave Sensing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
@@ -42,7 +42,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mhtrack.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mhtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
@@ -55,7 +55,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 </div>
 
 ## 🐱‍👤 Sensing Security
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mufilter.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mufilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
@@ -67,7 +67,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Commun. Mag. 2023</div><img src='images/mmfilter.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Commun. Mag. 2023</div><img src='images/mmfilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
@@ -80,7 +80,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 </div>
 
 ## 🤖 RF Mobile Localization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2022</div><img src='images/resensing.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2022</div><img src='images/resensing.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward Simultaneous Localization and Speed Measurement of Mobile Vehicles via RF-ELP](https://ieeexplore.ieee.org/document/9709594)
@@ -91,7 +91,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAP 2020</div><img src='images/moloc.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAP 2020</div><img src='images/moloc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Influence of the Nonideal Phase Offset on SAR-Based Localization in Passive UHF RFID](https://ieeexplore.ieee.org/document/9052482)
