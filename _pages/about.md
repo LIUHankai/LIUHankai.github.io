@@ -69,12 +69,12 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Commun. Mag. 2023</div><img src='images/mmfilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 [Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
 
 **Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
 
-- First achievement of personalized behavioral privacy protection in mmWave sensing.
+- Implementing the pioneering signal-matrix perturbation approach to achieve personalized behavioral privacy protection in mmWave sensing.
 
 </div>
 </div>
@@ -87,7 +87,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 **Hankai Liu**, Yongtao Ma, Xiulong Liu *et al.*
 
-- First RFID-based simultaneous vehicle localization and speed measurement system.
+- First RFID-based simultaneous vehicle localization and speed measurement system via novel phase sampling strategy.
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
-- Enabling RFID mobile localization with high accuracy and low computational latency.
+- Enabling RFID mobile localization with high accuracy and low computational latency through phase unwrapping and nonlinear optimization.
 
 </div>
 </div>
