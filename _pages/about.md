@@ -108,7 +108,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 # 🏆 Honors and Awards
 - *2025.05* Huawei Scholarship
-- *2024.07* Participated in the 1st National Training for College Cybersecurity Teachers (1 of 2 representatives from Tianjin University) 
+- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
 - *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
 - *2021.01* Outstanding Graduates of Tianjin University
 - *2020.08* OnMicro Scholarship
