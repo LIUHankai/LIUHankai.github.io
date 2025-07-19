@@ -37,6 +37,8 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 **Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
 
+- Introducing IMUs as identity indicators for mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+
 </div>
 </div>
 
@@ -47,7 +49,7 @@ My research interests include **Wireless Sensing** and **RF Security**. I have p
 
 Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- First mmWave-based hand tracking and gesture recognition scheme for mobile users.
 
 </div>
 </div>
@@ -60,6 +62,8 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
 Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
+- Satisfying differentiated behavioral privacy protection preferences of multiple users
+
 </div>
 </div>
 
@@ -69,6 +73,8 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 [Application-Oriented Privacy Filter for mmWave Radar](https://ieeexplore.ieee.org/document/10268839)
 
 **Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
+
+- First achievement of personalized behavioral privacy protection in mmWave sensing.
 
 </div>
 </div>
@@ -81,6 +87,8 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 **Hankai Liu**, Yongtao Ma, Xiulong Liu *et al.*
 
+- First RFID-based simultaneous vehicle localization and speed measurement system.
+
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAP 2020</div><img src='images/moloc.png' alt="sym" width="100%"></div></div>
@@ -89,6 +97,8 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 [The Influence of the Nonideal Phase Offset on SAR-Based Localization in Passive UHF RFID](https://ieeexplore.ieee.org/document/9052482)
 
 Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
+
+- Enabling RFID mobile localization with high accuracy and low computational latency.
 
 </div>
 </div>
