@@ -62,7 +62,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
 Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
-- Satisfying differentiated behavioral privacy protection preferences of multiple users
+- Satisfying differentiated behavioral privacy protection preferences of multiple users.
 
 </div>
 </div>
