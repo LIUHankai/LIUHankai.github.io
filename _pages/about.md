@@ -123,7 +123,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 - *2021.01* Outstanding Graduates of Tianjin University
 - *2020.08* OnMicro Scholarship
 
-# 🎓 Educations
+# 🎓 Experiences
 - *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
 - *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
