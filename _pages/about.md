@@ -54,7 +54,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 </div>
 </div>
 
-## 🐱‍👤 Sensing Security
+## 🛡️ Sensing Security
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mufilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
