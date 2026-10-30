@@ -9,17 +9,11 @@ main:
   - title: "Selected Publications"
     url: "/#-selected-publications"
 
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Fundings"
+    url: "/#-fundings"
 
   - title: "Teaching"
     url: "/#-teaching"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Experiences"
     url: "/#-experiences"
