@@ -22,7 +22,7 @@ I am a Lecturer at the [College of Cryptology and Cyber Science](https://cyber.n
 
 My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
-📢📢 <span style="color:#426b85;">Our group is seeking research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF Language Model</strong>, all within the mmWave modality. Drop me an email if you are interested.</span>
+📢📢 <span style="color:#7e1a6b;">Our group is seeking research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF Language Model</strong>, all within the mmWave modality. Drop me an email if you are interested.</span>
 
 # 🔥 News
 
@@ -80,8 +80,8 @@ Xiulong Liu, **Hankai Liu**, Jiaqi Zhang *et al.*
 # 🎓 Experiences
 
 - *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
-- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology
-  - Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙). Research: mmWave sensing and security.
-- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering
-  - Supervisor: [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛). Research: RF mobile localization.
+- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology<br>
+  Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋)
+- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering<br>
+  Supervisor: [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛), Prof. Kaihua Liu (刘开华)
 - *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
