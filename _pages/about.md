@@ -28,10 +28,11 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 - *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by IEEE TMC.
 - *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by ACM IMWUT (UbiComp 2027).
+- *2026.08*: I was awarded an NSFC Young Scientists Fund grant as Principal Investigator.
 
 # 📘 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
@@ -48,7 +49,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 [MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
 
-Xiulong Liu, **Hankai Liu\***, Yantao Han *et al.*
+Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
 - First demonstration of mmWave-based hand trajectory tracking and hand-painted pattern recognition during user movement.
 
@@ -60,7 +61,7 @@ Xiulong Liu, **Hankai Liu\***, Yantao Han *et al.*
 
 [Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
 
-Xiulong Liu, **Hankai Liu**, Jiaqi Zhang *et al.*
+Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 - Resolving cross-interference in signal perturbations to satisfy differentiated privacy protection preferences of multiple users.
 
