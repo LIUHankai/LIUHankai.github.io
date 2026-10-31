@@ -22,7 +22,7 @@ I am a Lecturer at the [College of Cryptology and Cyber Science](https://cyber.n
 
 My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
-📢📢 <span style="color:#7e1a6b;">Our group is seeking undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</span>
+📢📢 <span style="color:#7e1a6b;">I am seeking highly motivated undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</span>
 
 # 🔥 News
 
@@ -59,7 +59,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/scarecrow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Scarecrow: Forging Human Presence Within Mmwave Radar Signal Stream](/files/papers/2026-TMC-Scarecrow_Forging_Human_Presence_within_mmWave_Radar_Signal_Stream.pdf)
+[Scarecrow: Forging Human Presence within mmWave Radar Signal Stream](/files/papers/2026-TMC-Scarecrow_Forging_Human_Presence_within_mmWave_Radar_Signal_Stream.pdf)
 
 **Hankai Liu**, Jiaqi Zhang, Xiulong Liu *et al.*
 
@@ -94,7 +94,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 📋 Fundings
+# 📋 Research Funding (Partial)
 
 - *2027–2029*, NSFC Young Scientists Fund, Principal Investigator.
 
