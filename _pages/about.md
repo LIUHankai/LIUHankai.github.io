@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
@@ -32,12 +32,42 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 # 📘 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing]
+
+[PDF](/files/papers/2026-IMWUT-SpecRing_Spectrum_Shifting_Encryption_for_Privacy_Preserving_mmWave_Sensing.pdf)
+
+**Hankai Liu**, Jianyang Wang, Xin Xie *et al.*
+
+- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](https://dl.acm.org/doi/10.1145/3631433)
 
+[PDF](/files/papers/2024-IMWUT-PmTrack_Enabling_Personalized_mmWave_based_Human_Tracking.pdf)
+
 **Hankai Liu**, Xiulong Liu, Xin Xie *et al.*
+
+- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Scarecrow: Forging Human Presence Within Mmwave Radar Signal Stream](https://ieeexplore.ieee.org/document/11755400)
+
+[PDF](/files/papers/2026-TMC-Scarecrow_Forging_Human_Presence_within_mmWave_Radar_Signal_Stream.pdf)
+
+**Hankai Liu**, Jiaqi Zhang, Xiulong Liu *et al.*
 
 - Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
 
@@ -48,6 +78,8 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 <div class='paper-box-text' markdown="1">
 
 [MHTrack: mmWave-based Mobile Hand Tracking](https://ieeexplore.ieee.org/document/10962443)
+
+[PDF](/files/papers/2025-TMC-MHTrack_mmWave_based_Mobile_Hand_Tracking.pdf)
 
 Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 
@@ -60,6 +92,8 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 <div class='paper-box-text' markdown="1">
 
 [Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](https://ieeexplore.ieee.org/document/10946842)
+
+[PDF](/files/papers/2025-TMC-Multi_user_Behavioral_Privacy_Filtering_for_mmWave_Radar_Sensing.pdf)
 
 Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
