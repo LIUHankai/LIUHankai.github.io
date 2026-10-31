@@ -39,7 +39,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 **Hankai Liu**, Jianyang Wang, Rui Zhang *et al.*
 
-- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+- Enabling key-controlled access to sensitive information in mmWave signals through spectrum-shifting encryption.
 
 </div>
 </div>
@@ -63,7 +63,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 **Hankai Liu**, Jiaqi Zhang, Xiulong Liu *et al.*
 
-- Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
+- Forging realistic human presence in mmWave radar streams to protect home occupancy privacy.
 
 </div>
 </div>
