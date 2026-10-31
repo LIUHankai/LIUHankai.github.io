@@ -39,7 +39,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 [PDF](/files/papers/2026-IMWUT-SpecRing_Spectrum_Shifting_Encryption_for_Privacy_Preserving_mmWave_Sensing.pdf)
 
-**Hankai Liu**, Jianyang Wang, Xin Xie *et al.*
+**Hankai Liu**, Jianyang Wang, Rui Zhang *et al.*
 
 - Introducing IMUs as identity indicators into mmWave sensing systems for lightweight and accurate personalized multi-person tracking.
 
