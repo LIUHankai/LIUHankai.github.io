@@ -81,8 +81,6 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 # 🎓 Experiences
 
 - *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
-- *2021.09 - 2025.06*, Ph.D., Tianjin University, Computer Science and Technology<br>
-  Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋)
-- *2018.09 - 2021.01*, M.S., Tianjin University, Electronic and Communication Engineering<br>
-  Supervisor: [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛), Prof. Kaihua Liu (刘开华)
-- *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
+- *2021.09 - 2025.06*, Ph.D., Tianjin University, Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋)
+- *2018.09 - 2021.01*, M.S., Tianjin University, Supervisor: [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛), Prof. Kaihua Liu (刘开华)
+- *2014.09 - 2018.06*, B.E., Tianjin University
