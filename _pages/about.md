@@ -56,14 +56,14 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/scarecrow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scarecrow: Forging Human Presence Within Mmwave Radar Signal Stream](/files/papers/2026-TMC-Scarecrow_Forging_Human_Presence_within_mmWave_Radar_Signal_Stream.pdf)
 
 **Hankai Liu**, Jiaqi Zhang, Xiulong Liu *et al.*
 
-- Forging realistic human presence in mmWave radar streams to protect home occupancy privacy.
+- Embedding highly authentic virtual human targets into mmWave radar streams to protect home occupancy privacy.
 
 </div>
 </div>
