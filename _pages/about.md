@@ -94,7 +94,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 📋 Research Funding (Partial)
+# 📋 Fundings
 
 - *2027–2029*, NSFC Young Scientists Fund, Principal Investigator.
 
