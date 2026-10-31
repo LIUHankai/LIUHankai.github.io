@@ -32,7 +32,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 # 📘 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/specring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing](/files/papers/2026-IMWUT-SpecRing_Spectrum_Shifting_Encryption_for_Privacy_Preserving_mmWave_Sensing.pdf)
