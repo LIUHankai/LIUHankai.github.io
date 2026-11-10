@@ -27,9 +27,9 @@ author:
   location         : "Tianjin, China"
   employer         : "Nankai University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FlQRF88AAAAJ"
+  googlescholar    :
   email            : "lhk [at] nankai.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Hankai-Liu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LIUHankai"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
