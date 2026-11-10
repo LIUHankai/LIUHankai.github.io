@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨‍🎓 About Me
+<h1><i class="fas fa-user section-icon" aria-hidden="true"></i> About Me</h1>
 
 I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc.
 
@@ -24,13 +24,13 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 📢📢 <span style="color:#7e1a6b;">I am seeking highly motivated undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</span>
 
-# 🔥 News
+<h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
 
 - *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by IEEE TMC.
 - *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by ACM IMWUT (UbiComp 2027).
 - *2026.08*: I was awarded an NSFC Young Scientists Fund grant as Principal Investigator.
 
-# 📘 Selected Publications
+<h1 id="-selected-publications"><i class="fas fa-file-alt section-icon" aria-hidden="true"></i> Selected Publications</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/specring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,15 +94,15 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 📋 Fundings
+<h1 id="-fundings"><i class="fas fa-clipboard-check section-icon" aria-hidden="true"></i> Fundings</h1>
 
 - *2027–2029*, NSFC Young Scientists Fund, Principal Investigator.
 
-# 👨‍🏫 Teaching
+<h1 id="-teaching"><i class="fas fa-chalkboard-teacher section-icon" aria-hidden="true"></i> Teaching</h1>
 
 - *COSC0069*, Computer Hardware Fundamentals
 
-# 🎓 Experiences
+<h1 id="-experiences"><i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experiences</h1>
 
 - *2025.07 - Now*, Lecturer, Nankai University
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋)
