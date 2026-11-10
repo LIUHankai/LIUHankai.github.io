@@ -40,7 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.section-icon {
+.page__content h1 {
+    color: $text-color;
+}
+
+.page__content h1 .section-icon {
     color: #7e1a6b;
     font-size: 0.9em;
     width: 1.25em;
