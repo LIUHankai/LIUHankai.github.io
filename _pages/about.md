@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I am a Lecturer at the [College of Cryptology and Cyber Science](https://cyber.nankai.edu.cn/), Nankai University (南开大学密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc.
+I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc.
 
 My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
@@ -104,7 +104,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 # 🎓 Experiences
 
-- *2025.07 - Now*, Lecturer, College of Cryptology and Cyber Science, Nankai University
+- *2025.07 - Now*, Lecturer, Nankai University
 - *2021.09 - 2025.06*, Ph.D., Tianjin University, Supervisor: [Prof. Xiulong Liu](https://cic.tju.edu.cn/faculty/liuxiulong/index.html) (刘秀龙), [Prof. Keqiu Li](https://cic.tju.edu.cn/faculty/likeqiu/index.html) (李克秋)
 - *2018.09 - 2021.01*, M.S., Tianjin University, Supervisor: [Prof. Yongtao Ma](https://faculty.tju.edu.cn/MaYongtao/zh_CN/index.htm) (马永涛), Prof. Kaihua Liu (刘开华)
 - *2014.09 - 2018.06*, B.E., Tianjin University
