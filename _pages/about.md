@@ -18,7 +18,7 @@ redirect_from:
 
 <h1><i class="fas fa-user section-icon" aria-hidden="true"></i> About Me</h1>
 
-I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc.
+I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including IMWUT, TMC, TWC, TAP, etc.
 
 My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
@@ -29,8 +29,8 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
 
-- *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by IEEE TMC.
-- *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by ACM IMWUT (UbiComp 2027).
+- *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by TMC.
+- *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by IMWUT (UbiComp 2027).
 - *2026.08*: I was awarded an NSFC Young Scientists Fund grant as Principal Investigator.
 
 <h1 id="-selected-publications"><i class="fas fa-file-alt section-icon" aria-hidden="true"></i> Selected Publications</h1>
