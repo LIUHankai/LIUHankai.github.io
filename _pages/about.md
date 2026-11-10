@@ -22,7 +22,12 @@ I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/),
 
 My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
-📢📢 <span style="color:#7e1a6b;">I am seeking highly motivated undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</span>
+<aside class="recruitment-box" aria-labelledby="recruitment-title">
+  <h2 id="recruitment-title">Undergraduate Research Opportunities</h2>
+  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality.</p>
+  <p>Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued.</p>
+  <p class="recruitment-contact">Contact me via <a href="mailto:lhk@nankai.edu.cn">email</a> or Feishu if you are interested!</p>
+</aside>
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
 

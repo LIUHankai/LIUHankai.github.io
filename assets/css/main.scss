@@ -52,6 +52,37 @@
     text-align: center;
 }
 
+.page__content .recruitment-box {
+    margin: 1.5em 0;
+    padding: 1.15em 1.3em;
+    background: #f8f2f7;
+    border: 1px solid #eadce7;
+    border-left: 4px solid #7e1a6b;
+    border-radius: 6px;
+    color: $text-color;
+
+    h2 {
+        margin: 0 0 0.65em;
+        font-size: 1.1em;
+        line-height: 1.35;
+        color: #7e1a6b;
+    }
+
+    p {
+        margin: 0 0 0.75em;
+    }
+
+    .recruitment-contact {
+        margin-bottom: 0;
+        font-weight: bold;
+        color: #7e1a6b;
+    }
+
+    a {
+        color: #7e1a6b;
+    }
+}
+
 .paper-box {
     display: flex;
     justify-content: left;
