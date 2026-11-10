@@ -24,7 +24,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 <aside class="recruitment-box" aria-labelledby="recruitment-title">
   <h2 id="recruitment-title">Undergraduate Research Opportunities</h2>
-  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Radar Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
+  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Signal Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
 </aside>
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
