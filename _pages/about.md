@@ -35,7 +35,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 
 <h1 id="-selected-publications"><i class="fas fa-file-alt section-icon" aria-hidden="true"></i> Selected Publications</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026</div><img src='images/specring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2026 [CCF-A]</div><img src='images/specring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing](/files/papers/2026-IMWUT-SpecRing_Spectrum_Shifting_Encryption_for_Privacy_Preserving_mmWave_Sensing.pdf)
@@ -47,7 +47,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2024 [CCF-A]</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PmTrack: Enabling Personalized mmWave-based Human Tracking](/files/papers/2024-IMWUT-PmTrack_Enabling_Personalized_mmWave_based_Human_Tracking.pdf)
@@ -59,7 +59,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='images/scarecrow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026 [CCF-A]</div><img src='images/scarecrow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Scarecrow: Forging Human Presence within mmWave Radar Signal Stream](/files/papers/2026-TMC-Scarecrow_Forging_Human_Presence_within_mmWave_Radar_Signal_Stream.pdf)
@@ -71,7 +71,7 @@ My current research focuses on **Scene Understanding with mmWave Sensing**. My a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mhtrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025 [CCF-A]</div><img src='images/mhtrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MHTrack: mmWave-based Mobile Hand Tracking](/files/papers/2025-TMC-MHTrack_mmWave_based_Mobile_Hand_Tracking.pdf)
@@ -83,7 +83,7 @@ Xiulong Liu (supervisor), **Hankai Liu\***, Yantao Han *et al.*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><img src='images/mufilter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025 [CCF-A]</div><img src='images/mufilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing](/files/papers/2025-TMC-Multi_user_Behavioral_Privacy_Filtering_for_mmWave_Radar_Sensing.pdf)
