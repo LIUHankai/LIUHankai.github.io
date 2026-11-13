@@ -22,7 +22,7 @@ I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/),
 
 <aside class="recruitment-box" aria-labelledby="recruitment-title">
   <h2 id="recruitment-title">Undergraduate Research Opportunities</h2>
-  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Non-Visual Human Monitoring</strong> and <strong>Imaging and Perception for Robotics</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
+  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Human Reconstruction and Understanding</strong> and <strong>Non-Visual Perception for Robotics</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
 </aside>
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
