@@ -18,7 +18,7 @@ redirect_from:
 
 <h1><i class="fas fa-user section-icon" aria-hidden="true"></i> About Me</h1>
 
-I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including IMWUT, TMC, TWC, TAP, etc.
+I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China. Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including IMWUT, TMC, TWC, TAP, etc.
 
 My current research focuses on **Scene Understanding with mmWave Radar**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
