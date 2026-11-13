@@ -20,11 +20,11 @@ redirect_from:
 
 I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/), Nankai University (南开大学计算机学院·密码与网络空间安全学院), China, and a member of the research groups led by [Prof. Zheli Liu](https://cyber.nankai.edu.cn/2021/0323/c13838a551995/page.htm) (刘哲理) and [Prof. Dan Ding](https://cyber.nankai.edu.cn/2021/0323/c13838a569771/page.htm) (丁丹). Prior to this, I earned my B.E., M.S., and Ph.D. degrees from Tianjin University, China. I have published over 20 papers at the top-tier international conferences and journals, including IMWUT, TMC, TWC, TAP, etc.
 
-My current research focuses on **Scene Understanding with mmWave Sensing**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
+My current research focuses on **Scene Understanding with mmWave Radar**. My ambition is to make mmWave sensing work reliably in the messy, dynamic, and unpredictable conditions of the real world, ultimately bringing this privacy-friendly technology into homes as a trusted part of everyday life.
 
 <aside class="recruitment-box" aria-labelledby="recruitment-title">
   <h2 id="recruitment-title">Undergraduate Research Opportunities</h2>
-  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Signal Feature Enhancement</strong>, <strong>Human Reconstruction</strong> and <strong>RF-Language Model</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
+  <p>I am seeking highly motivated undergraduate research assistants for projects on <strong>Human Reconstruction and Behavior Understanding</strong> and <strong>Non-Visual Perception for Robotic Manipulation</strong>, all within the mmWave modality. Students from EE, CS, and related fields are welcome. Backgrounds in signal processing, artificial intelligence, or hardware design are highly valued. Contact me via email or Feishu if you are interested!</p>
 </aside>
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
