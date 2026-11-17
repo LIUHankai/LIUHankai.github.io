@@ -99,7 +99,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 <h1 id="-fundings"><i class="fas fa-clipboard-check section-icon" aria-hidden="true"></i> Fundings</h1>
 
 - *2027–2029*, NSFC Young Scientists Fund, Principal Investigator.
-- *2027–2029*, Tianjin Natural Science Foundation, Young Scientists Fund, Principal Investigator (provisionally selected for funding).
+- *2027–2029*, Tianjin Natural Science Foundation, Young Scientists Fund, Principal Investigator.
 
 <h1 id="-teaching"><i class="fas fa-chalkboard-teacher section-icon" aria-hidden="true"></i> Teaching</h1>
 
