@@ -27,7 +27,7 @@ I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/),
 
 <h1 id="-news"><i class="fas fa-bullhorn section-icon" aria-hidden="true"></i> News</h1>
 
-- *2026.11*: My proposal has been provisionally selected for funding under the Tianjin Natural Science Foundation's Young Scientists Fund.
+- *2026.11*: I was awarded a Young Scientists Fund grant from the Tianjin Natural Science Foundation as Principal Investigator.
 - *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by TMC.
 - *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by IMWUT.
 - *2026.08*: I was awarded an NSFC Young Scientists Fund grant as Principal Investigator.
