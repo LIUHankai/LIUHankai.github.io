@@ -30,7 +30,7 @@ I am a Lecturer at the [College of Computer Science](https://cc.nankai.edu.cn/),
 - *2026.11*: I was awarded a Young Scientists Fund grant from the Tianjin Natural Science Foundation as Principal Investigator.
 - *2026.10*: Our paper entitled "Scarecrow: Forging Human Presence within mmWave Radar Signal Stream" was accepted by TMC.
 - *2026.09*: Our paper entitled "SpecRing: Spectrum-Shifting Encryption for Privacy-Preserving mmWave Sensing" was accepted by IMWUT.
-- *2026.08*: I was awarded an NSFC Young Scientists Fund grant as Principal Investigator.
+- *2026.08*: I was awarded a Young Scientists Fund grant from the National Natural Science Foundation of China as Principal Investigator.
 
 <h1 id="-selected-publications"><i class="fas fa-file-alt section-icon" aria-hidden="true"></i> Selected Publications</h1>
 
@@ -98,7 +98,7 @@ Xiulong Liu (supervisor), **Hankai Liu**, Jiaqi Zhang *et al.*
 
 <h1 id="-fundings"><i class="fas fa-clipboard-check section-icon" aria-hidden="true"></i> Fundings</h1>
 
-- *2027–2029*, NSFC Young Scientists Fund, Principal Investigator.
+- *2027–2029*, National Natural Science Foundation of China, Young Scientists Fund, Principal Investigator.
 - *2027–2029*, Tianjin Natural Science Foundation, Young Scientists Fund, Principal Investigator.
 
 <h1 id="-teaching"><i class="fas fa-chalkboard-teacher section-icon" aria-hidden="true"></i> Teaching</h1>
